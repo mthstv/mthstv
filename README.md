@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
 <!--
 **MatheusT45/matheust45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
