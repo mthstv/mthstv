@@ -16,7 +16,7 @@ Pra mim é por a mão na massa, ir desenvolvendo com a documentação (e o stack
 
 Ler matérias em sites como https://dev.to/, https://medium.com/ e realizar testes no https://www.hackerrank.com/ e https://leetcode.com/ também fazem parte do meu aprendizado e considero que ajudam bastante.
 
-> 4. Defina, na sua percepção, quais características uma pessoa deve ter para ser
+> 3. Defina, na sua percepção, quais características uma pessoa deve ter para ser
 >    considerada boa desenvolvedora?
 
 Eu considero comunicação um ponto fortíssimo para um desenvolvedor, saber ouvir, trazer suas ideias para o time, de forma pouco defensiva, é uma das características que eu mais admiro em pessoas desenvolvedoras, e procuro sempre seguir esse caminho.
