@@ -9,7 +9,7 @@ Desde o colégio eu adorava exercícios de lógica e no final do ensino médio,
 consegui a oportunidade de fazer o curso de Sistemas de Informação com bolsa de 100% pelo Prouni.
 Desde esse dia nunca mais parei de estudar.
 
-> 3. Para você, qual é a forma mais efetiva de aprender algo novo relacionado à
+> 2. Para você, qual é a forma mais efetiva de aprender algo novo relacionado à
 >    programação?
 
 Pra mim é por a mão na massa, ir desenvolvendo com a documentação (e o stackoverflow) ao lado para consultas é a melhor forma de aprender.
