@@ -24,7 +24,7 @@ With five years of comprehensive experience in full-stack web development, I am 
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
-## Here's a little about me...
+# 💬 A little bit more about me...
 
 > 1. How did you get started in the world of programming? What were your motivations? What caught your attention?
 
