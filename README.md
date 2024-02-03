@@ -1,37 +1,46 @@
-### Olá 👋
+# 👋 Hi there
 
-## Aqui vai um pouco sobre mim...
+I'm Matheus Tavares, a passionate and comunicative software developer and tech enthusiast. </br>
+With over 5 years of experience in the field, I've had the opportunity to work on various exciting projects and explore different technologies.
 
-> 1. Como você começou no mundo da programação? Quais foram suas motivações? O que chamou sua atenção?
 
-Eu sempre gostei muito de jogos então foi meio que por abstração xD.
-Desde o colégio eu adorava exercícios de lógica e no final do ensino médio,
-consegui a oportunidade de fazer o curso de Sistemas de Informação com bolsa de 100% pelo Prouni.
-Desde esse dia nunca mais parei de estudar.
+# 🚀 Expertise
+With five years of comprehensive experience in full-stack web development, I am a seasoned professional proficient in PHP, TypeScript and cloud services. My expertise extends from building secure and scalable back-end systems with Laravel and PHP to crafting dynamic front-end interfaces using React and Vue. Leveraging Node.js, I excel in developing robust server-side applications, while cloud services like AWS, Azure, and Google Cloud are seamlessly integrated into my deployment strategies. Proficient in both SQL and NoSQL databases, I bring a holistic understanding of the full-stack development process, ensuring cohesive, end-to-end solutions. My commitment to continuous learning and innovation positions me as a versatile developer ready to tackle evolving challenges and deliver cutting-edge solutions in the ever-changing landscape of web development.
 
-> 2. Para você, qual é a forma mais efetiva de aprender algo novo relacionado à
->    programação?
+# 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 
-Pra mim é por a mão na massa, ir desenvolvendo com a documentação (e o stackoverflow) ao lado para consultas é a melhor forma de aprender.
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NuxtJS](https://img.shields.io/badge/Nuxt-black?style=for-the-badge&logo=nuxt.js&logoColor=white) 
 
-Ler matérias em sites como https://dev.to/, https://medium.com/ e realizar testes no https://www.hackerrank.com/ e https://leetcode.com/ também fazem parte do meu aprendizado e considero que ajudam bastante.
+![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Styled Components](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white) ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white) ![Vuetify](https://img.shields.io/badge/Vuetify-1867C0?style=for-the-badge&logo=vuetify&logoColor=AEDDFF)
 
-> 3. Defina, na sua percepção, quais características uma pessoa deve ter para ser
->    considerada boa desenvolvedora?
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white) ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) ![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge) ![Node JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 
-Eu considero comunicação um ponto fortíssimo para um desenvolvedor, saber ouvir, trazer suas ideias para o time, de forma pouco defensiva, é uma das características que eu mais admiro em pessoas desenvolvedoras, e procuro sempre seguir esse caminho.
+![Postgres](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 
-<!--
-**MatheusT45/matheust45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Jest](https://img.shields.io/badge/Jest-323330?style=for-the-badge&logo=Jest&logoColor=white)
 
-Here are some ideas to get you started:
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+
+## Here's a little about me...
+
+> 1. How did you get started in the world of programming? What were your motivations? What caught your attention?
+
+I've always really liked games so it was kind of an abstraction xD.
+Since high school I loved logic exercises and at the end of high school,
+I got the opportunity to take the Information Systems course with a 100% scholarship through Prouni.
+Since that day I never stopped studying.
+
+> 2. For you, what is the most effective way to learn something new related to
+> programming?
+
+For me, it's getting my hands dirty, developing with the documentation (and stackoverflow) on the side is the best way to learn.
+
+Reading articles on sites like https://dev.to/, https://medium.com/ and carrying out tests on https://www.hackerrank.com/ and https://leetcode.com/ are also part of my learning and I think they help a lot.
+
+> 3. Define, in your perception, what characteristics a person must have to be
+> considered a good developer?
+
+I consider communication to be a very strong point for a developer, knowing how to listen, bring your ideas to the team, in a non-defensive way, is one of the characteristics that I most admire in developers, and I always try to follow this path.
