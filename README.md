@@ -23,24 +23,3 @@ With five years of comprehensive experience in full-stack web development, I am 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase)
 
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Insomnia](https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE)
-
-# 💬 A little bit more about me...
-
-> 1. How did you get started in the world of programming? What were your motivations? What caught your attention?
-
-I've always really liked games so it was kind of an abstraction xD.
-Since high school I loved logic exercises and at the end of high school,
-I got the opportunity to take the Information Systems course with a 100% scholarship through Prouni.
-Since that day I never stopped studying.
-
-> 2. For you, what is the most effective way to learn something new related to
-> programming?
-
-For me, it's getting my hands dirty, developing with the documentation (and stackoverflow) on the side is the best way to learn.
-
-Reading articles on sites like https://dev.to/, https://medium.com/ and carrying out tests on https://www.hackerrank.com/ and https://leetcode.com/ are also part of my learning and I think they help a lot.
-
-> 3. Define, in your perception, what characteristics a person must have to be
-> considered a good developer?
-
-I consider communication to be a very strong point for a developer, knowing how to listen, bring your ideas to the team, in a non-defensive way, is one of the characteristics that I most admire in developers, and I always try to follow this path.
