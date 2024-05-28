@@ -5,9 +5,7 @@ With over 5 years of experience in the field, I've had the opportunity to work o
 
 
 # 🚀 Expertise
-With five years of comprehensive experience in full-stack web development, I am a seasoned professional proficient in PHP, TypeScript and cloud services. My expertise extends from building secure and scalable back-end systems with Laravel and PHP to crafting dynamic front-end interfaces using React and Vue. 
-Leveraging Node.js, I excel in developing robust server-side applications, while cloud services like AWS, Azure, and Google Cloud are seamlessly integrated into my deployment strategies. Proficient in both SQL and NoSQL databases, I bring a holistic understanding of the full-stack development process, ensuring cohesive, end-to-end solutions. 
-My commitment to continuous learning and innovation positions me as a versatile developer ready to tackle evolving challenges and deliver cutting-edge solutions in the ever-changing landscape of web development.
+With five years in full-stack web development, I'm skilled in PHP, TypeScript, and cloud services. I build secure back-ends with Laravel and Node.js, and dynamic front-ends with React and Vue. I develop robust server-side apps, and integrate AWS, Azure, and Google Cloud for deployment. I'm proficient in SQL and NoSQL databases, offering complete, end-to-end solutions. Always learning and innovating, I'm a versatile developer ready to handle new challenges and create modern web solutions.
 
 # 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
