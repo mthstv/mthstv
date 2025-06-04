@@ -5,7 +5,7 @@ With over 6 years of experience in the field, I've had the opportunity to work o
 
 
 # 🚀 Expertise
-I'm skilled in PHP, TypeScript, and cloud services. I build secure back-ends with Laravel and Node.js, and dynamic front-ends with React and Vue. I develop robust server-side apps, and integrate AWS, Azure, and Google Cloud for deployment. I'm proficient in SQL and NoSQL databases, offering complete, end-to-end solutions. Always learning and innovating, I'm a versatile developer ready to handle new challenges and create modern web solutions.
+Skilled in TypeScript, PHP, and cloud services. I build secure back-ends with Laravel and Node.js, and dynamic front-ends with React and Vue. I develop robust server-side apps, and integrate AWS, Azure, and Google Cloud for deployment. I'm proficient in SQL and NoSQL databases, offering complete, end-to-end solutions. Always learning and innovating, I'm a versatile developer ready to handle new challenges and create modern web solutions.
 
 # 💻 Tech Stack
 ## Main stack
